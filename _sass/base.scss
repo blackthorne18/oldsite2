@@ -15,6 +15,8 @@ $container-max-width:  800px !default;
  * Global
  */
 *{
+  margin: 0;
+  padding: 0;
   background-color: var(--background-color);
 }
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
