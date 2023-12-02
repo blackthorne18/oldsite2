@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prajwalbharadwaj/contact
+title: PrajwalBharadwaj/contact
 displayname: /contact
 permalink: /contact
 ---

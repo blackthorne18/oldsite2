@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /blog
+title: PrajwalBharadwaj/blog
+displayname: /blog
 permalink: /blog
 ---
 

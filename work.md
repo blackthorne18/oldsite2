@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /work
+title: PrajwalBharadwaj/work
+displayname: /work
 permalink: /work
 ---
 

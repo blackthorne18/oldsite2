@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /about
+title: PrajwalBharadwaj/about
+displayname: /about
 permalink: /about
 ---
 
