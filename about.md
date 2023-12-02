@@ -1,24 +1,15 @@
 ---
 layout: page
 title: /about
-permalink: /about
+permalink: /about/
 ---
 
-## My Backstory
+# jekyll-theme-console
 
-Brought up in cheerful and welcoming South Bengaluru, I grew up loving to play cricket, exploring the imaginative islands that spanned my home and reading books untill I ran out of them.
-I spent all of my 13 years of Education at my second home, the Kumaran Group of Institutions. For the most part, Kumarans really shaped much of what I am today. Joining IISER to study Science, really, in many ways, began the next chapter of my life.
+A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
+You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
 
-I always have an active hobby, although it's constantly changing. From months of learning Chess to practicing coding for wanting to work for Google, from folding origami for days on end to wanting to live like Bear Grylls, I find great joy in sampling the buffet of life.
+## What is jekyll?
 
-When I'm not writing code to understand evolution of selfish genetic elements or growing bacterial cultures to study the effect of our GOI, I like to test my courage and face Kubolds and Krakken while playing Dungeons and Dragons or I try to go for walks outdoor listening to podcasts. I definitely reccomend listening to 'This Week in Evolution'(TWiEVO) a podcast hosted by Dr. Nels Elde and Prof. Vincent Racaniello. 
-
-## Education
-
-### PhD in Mirobiology
-Department of Evolution, Ecology and Behaviour University of Liverpool
-Duration: 2023 - (ongoing)
-
-## BS-MS Dual Degree (Biological Sciences)
-Indian Institute of Science Education and Research Bhopal
-Duration: 2017- 2022
+Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
+<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pages, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.

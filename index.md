@@ -1,9 +1,14 @@
 ---
-layout: home 
-title: /home
+title: /
+layout: home
 permalink: /
 ---
 
-# Prajwal Bharadwaj 
+# Other Demo Pages
 
-I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes.
+[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
+[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+
+# Welcome
+
+Bla bla bla bla. Bla bla bla bla bla bla bla bla.
