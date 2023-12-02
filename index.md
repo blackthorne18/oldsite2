@@ -10,7 +10,6 @@ permalink: /
 I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes.
 
 <figure>
-    <div><img src='assets/profile.jpg' style='width:100%;height:auto'/></div>
-    <br>
+    <img src='assets/profile.jpg' style='width:100%;height:auto'/>
     <figcaption>Love adventures in the lab and in the mountains</figcaption>
 </figure>
