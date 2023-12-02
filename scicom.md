@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /science-communication
+title: /sci-com
 permalink: /scicom
 ---
 

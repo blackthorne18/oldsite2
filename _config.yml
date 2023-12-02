@@ -4,12 +4,13 @@ url: "https://blackthorne18.github.io"
 
 header_pages:
   - index.md
-  - about.md
   - work.md
   - scicom.md
+  - about.md
+  - contact.md
 
 style: dark
-footer: 'PVB'
+footer: 'signed P.V.B'
 
 # Build settings
 markdown: kramdown
