@@ -10,11 +10,7 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.2"
 gem "github-pages", "~> 228", group: :jekyll_plugins
 gem 'bigdecimal', '1.2.7'
-gem "jekyll-default-layout"
-gem "jekyll-theme-hydeout", "~> 4.1"
-gem "jekyll-theme-console"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
+gem 'jekyll-theme-console', '> 0'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
