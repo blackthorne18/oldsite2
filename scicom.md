@@ -1,6 +1,7 @@
 ---
 layout: page
-title: /sci-com
+title: prajwalbharadwaj/sci-com
+displayname: /sci-com
 permalink: /scicom
 ---
 

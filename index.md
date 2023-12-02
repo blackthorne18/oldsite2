@@ -1,6 +1,7 @@
 ---
 layout: home
-title: /home
+title: Prajwal Bharadwaj
+displayname: /home
 permalink: /
 ---
 
