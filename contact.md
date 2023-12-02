@@ -7,5 +7,5 @@ permalink: /contact
 
 ## Contact
 
-Feel free to get in touch with me via email (prajwal[at]liverpool.ac.uk)
+Feel free to get in touch with me via email at `prajwal[at]liverpool.ac.uk` <br>
 You can find me on <a href='https://www.linkedin.com/in/bharadwajprajwal/' target='_blank'>Linkedin</a>. My CV is available for <a href='assets/cv-pvb.pdf' download>download</a>
