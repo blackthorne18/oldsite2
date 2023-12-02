@@ -1,14 +1,9 @@
 ---
-title: /
 layout: home
-permalink: /
+title: /home
+permalink: /home
 ---
 
-# Other Demo Pages
+# Hi, I am Prajwal Bharadwaj!
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes.
