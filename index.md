@@ -1,0 +1,9 @@
+---
+layout: home 
+title: /home
+permalink: /
+---
+
+# Prajwal Bharadwaj 
+
+I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes.
