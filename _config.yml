@@ -1,12 +1,12 @@
 title: 'blackthorne18.github.io'
-baseurl: '/testsite2' 
+baseurl: '/testsite2/' 
 url: "https://blackthorne18.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
-  - contact.md
+  - work.md
+  - scicom.md
 
 style: dark
 footer: 'PVB'

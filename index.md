@@ -1,7 +1,7 @@
 ---
 layout: home
 title: /home
-permalink: /home
+permalink: /
 ---
 
 # Hi, I am Prajwal Bharadwaj!
