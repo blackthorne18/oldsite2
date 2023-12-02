@@ -6,6 +6,7 @@ header_pages:
   - index.md
   - work.md
   - scicom.md
+  - blog.md
   - about.md
   - contact.md
 
@@ -14,4 +15,5 @@ footer: 'signed P.V.B'
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-terminal 
+# remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: Squifi/jekyll-theme-terminal
