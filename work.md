@@ -26,7 +26,7 @@ permalink: /work
 
 ## Masters Thesis with Dr. Frederic Bertels
 **Studying the dynamics of REPIN movement in bacterial genomes**
-<p class='timeslot'>March 2021 - June 2022 </p>
+*March 2021 - June 2022*
 - Understanding movement patterns and duplication rate of REPIN Transposable Elements in Pseudomonas genome sequences
 - Creating and testing of REPIN Clusterer - a Bioinformatics pipelines in Python Programming Language 
 - Developed innovative computational method of clustering REPIN Sequences together based on orthology 
@@ -38,7 +38,7 @@ permalink: /work
 
 ## iGEM 2020 Project 
 **Beta-cells in Gut Producing Insulin (BIG-PIE)**
-<p class='timeslot'>February 2020 - October 2020 </p>
+*February 2020 - October 2020*
 - A new method of providing insulin to patients with diabetes
 - Helped Brainstorm project ideas during the nascent stage
 - Helped with building the Project Website
@@ -49,7 +49,7 @@ permalink: /work
 
 ## iGEM 2019 Project 
 **Ecoli Learns Suboptimal Acclimatisation (ELSA)**
-<p class='timeslot'>February 2019 - October 2019 </p>
+*February 2019 - October 2019*
 - Synthetically modifying Ecoli to grow optimally at 4 degrees Celsius
 - Helped manage the Wet Lab experiments by performing Growth Curve experiments to analyse the effect of our Gene of Interest
 - Helped the Outreach and Integrated Human Practices team by talking to people in the industry regarding our product.

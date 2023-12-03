@@ -11,5 +11,5 @@ I write code, run assays and perform experiments to unravel the mysteries behind
 
 <figure>
     <img src='assets/profile.webp' srcset='assets/profile.webp 400w, assets/profile-small.webp 200w' sizes='20vw' alt='profile picture' style='width:100%;height:auto'/>
-    <figcaption>Love adventures in the lab and in the mountains</figcaption>
+    <figcaption>Adventures in the lab and in the mountains</figcaption>
 </figure>
