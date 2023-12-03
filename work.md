@@ -7,7 +7,7 @@ permalink: /work
 
 ## PhD with Dr. James Hall
 **Plasmid-Host Dynamics in the context of Antibiotic Resistance**
-<p class='timeslot'>October 2023 - ongoing </p>
+*October 2023 - ongoing*
 - Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host
 - Understanding the interaction dynamics of the plasmid and the host genome
 
@@ -15,7 +15,7 @@ permalink: /work
 
 ## Research Project with Dr. Samay Pande
 **Research Project on evolution of antibiotic resistance**
-<p class='timeslot'>August 2022 - June 2023 </p>
+*August 2022 - June 2023*
 - Understanding the influence of multiple selection-constrains on the de-novo evolution of antibiotic resistance
 - Studying evolution of antibiotic resistance in prey bacteria in the presence of a predator and evolution of escape strategies by the prey. The model system used was of M xanthus (predator) and E coli, P fluorescence and S enterica (prey).
 - Experimental coevolution of M xanthus and three prey bacteria - Microbial culture techniques
