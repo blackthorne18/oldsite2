@@ -31,7 +31,7 @@ permalink: /work
 ## Masters Thesis with Dr. Frederic Bertels
 **Studying the dynamics of REPIN movement in bacterial genomes**
 *March 2021 - June 2022*
-<p>
+<p class='container'>
 - Understanding movement patterns and duplication rate of REPIN Transposable Elements in Pseudomonas genome sequences
 - Creating and testing of REPIN Clusterer - a Bioinformatics pipelines in Python Programming Language 
 - Developed innovative computational method of clustering REPIN Sequences together based on orthology 

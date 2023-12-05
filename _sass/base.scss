@@ -6,14 +6,14 @@
  */
 $base-font-family:     'Source Code Pro', monospace !default;
 $base-font-size:       30px !default;
+$base-2-font-size:     28px !default;
 $navbar-font-size:     24px !default;
 $content-font-size:    24px !default;
 $mobile-font-size:     22px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
 $container-max-width:  800px !default;
-$indent-width:         45% !default;
-$indent-max-width:     400px !default;
+
 /**
  * Global
  */
@@ -23,7 +23,8 @@ $indent-max-width:     400px !default;
   background-color: var(--background-color);
 }
 body { background-color: var(--background-color);  margin: 0 auto;  padding: 0;  font-family: $base-font-family;  font-size: $base-font-size;  color: var(--text-color);  text-align: left;  line-height: $base-line-height !important; }
-h1, h2, h3, h4, h5, h6 { font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color); }
+h1{ font-size: $base-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color);  }
+h2, h3, h4, h5, h6 { font-size: $base-2-font-size;  margin: 0px;  margin-top: 22px;  font-weight: bold;  color: var(--text-color); }
 p, ul, ol { margin: 0px;  color: var(--text-color); font-size: $content-font-size; }
 a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
@@ -35,7 +36,6 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 figcaption { font-size: $mobile-font-size; }
 figure { display: flex; justify-content: center; flex-direction: column; align-items:center;}
 .timeslot{ font-size: $content-font-size; background-color: var(--text-color); color: var(--background-color); }
-.work-bullet { width: $indent-width; max-width: $indent-max-width; font-size: $content-font-size; margin-right: auto; margin-left: auto;  }
 
 /**
  * Layout
@@ -65,7 +65,7 @@ footer { margin-bottom: 20px; font-style: italic; font-size: $mobile-font-size; 
 /**
  * Header/Navigation
  */
-.menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; }
+.menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; font-size: $navbar-font-size;}
 .menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); padding-left: 2px}
