@@ -5,11 +5,11 @@
  * Style variables
  */
 $base-font-family:     'Source Code Pro', monospace !default;
-$base-font-size:       28px !default;
+$base-font-size:       26px !default;
 $base-1-font-size:     32px !default;
 $base-2-font-size:     28px !default;
-$navbar-font-size:     18px !default;
-$content-font-size:    24px !default;
+$navbar-font-size:     10px !default;
+$content-font-size:    22px !default;
 $mobile-font-size:     20px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
@@ -67,7 +67,7 @@ footer { margin-bottom: 20px; font-style: italic; font-size: $mobile-font-size; 
  * Header/Navigation
  */
 .menu { border-top: var(--border);  border-bottom: var(--border);  margin-bottom: 25px; font-size: $navbar-font-size;}
-.menu ul { margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
+.menu ul { font-size $navbar-font-size; margin-top: 12px;  margin-bottom: 12px;  padding-left: 0px;  list-style-type: none;  text-align: right; }
 .menu ul li { display: inline;  margin-left: 10px; }
 .menu ul li a { text-decoration: none;  color: var(--text-color); padding-left: 2px}
 .menu ul li a:hover { text-decoration: none; color: var(--background-color); background-color: var(--base-color); }
