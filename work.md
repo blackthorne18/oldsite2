@@ -9,8 +9,8 @@ permalink: /work
 **Plasmid-Host Dynamics in the context of Antibiotic Resistance**
 *October 2023 - ongoing*
 <ul>
-    <li> Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host
-    <li> Understanding the interaction dynamics of the plasmid and the host genome
+    <li> Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host</li>
+    <li> Understanding the interaction dynamics of the plasmid and the host genome</li>
 </ul>
 <br>
 ---
