@@ -6,7 +6,7 @@ permalink: /
 ---
 
 # Hi, I am Prajwal Bharadwaj!
-Updating 2
+
 I write code, run assays and perform experiments to unravel the mysteries behind evolutionary forces and ecological processes.
 
 <figure>
