@@ -35,7 +35,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 figcaption { font-size: $mobile-font-size; }
 figure { display: flex; justify-content: center; flex-direction: column; align-items:center;}
 .timeslot{ font-size: $content-font-size; background-color: var(--text-color); color: var(--background-color); }
-.work-bullet{ width: $indent-width; max-width: $indent-max-width; font-size: $content-font-size; margin-right: auto; margin-left: auto;  }
+.work-bullet { width: $indent-width; max-width: $indent-max-width; font-size: $content-font-size; margin-right: auto; margin-left: auto;  }
 
 /**
  * Layout
