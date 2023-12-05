@@ -8,7 +8,7 @@ permalink: /work
 ## PhD with Dr. James Hall
 **Plasmid-Host Dynamics in the context of Antibiotic Resistance**
 *October 2023 - ongoing*
-<p class='work-bullet'>
+<p class='container'>
 - Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host
 - Understanding the interaction dynamics of the plasmid and the host genome
 </p>
@@ -45,7 +45,7 @@ permalink: /work
 ## iGEM 2020 Project 
 **Beta-cells in Gut Producing Insulin (BIG-PIE)**
 *February 2020 - October 2020*
-<p class='work-bullet' style='24px'>
+<p class='container' style='24px'>
 - A new method of providing insulin to patients with diabetes
 - Helped Brainstorm project ideas during the nascent stage
 - Helped with building the Project Website
@@ -58,7 +58,7 @@ permalink: /work
 ## iGEM 2019 Project 
 **Ecoli Learns Suboptimal Acclimatisation (ELSA)**
 *February 2019 - October 2019*
-<p class='work-bullet'>
+<p class='container'>
 - Synthetically modifying Ecoli to grow optimally at 4 degrees Celsius
 - Helped manage the Wet Lab experiments by performing Growth Curve experiments to analyse the effect of our Gene of Interest
 - Helped the Outreach and Integrated Human Practices team by talking to people in the industry regarding our product.
