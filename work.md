@@ -8,12 +8,10 @@ permalink: /work
 ## PhD with Dr. James Hall
 **Plasmid-Host Dynamics in the context of Antibiotic Resistance**
 *October 2023 - ongoing*
-<p class='container'>
-<ul>
+<ul class='container'>
     <li> Studying persistence of antimicrobial resistance as a function of plasmid persistence in the host </li>
     <li> Understanding the interaction dynamics of the plasmid and the host genome </li>
 </ul>
-</p>
 <br>
 <hr>
 
