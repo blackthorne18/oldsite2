@@ -18,13 +18,13 @@ permalink: /work
 ## Research Project with Dr. Samay Pande
 **Research Project on evolution of antibiotic resistance**
 *August 2022 - June 2023*
-<p class='container' style='display list-item;'>
-- Understanding the influence of multiple selection-constrains on the de-novo evolution of antibiotic resistance
-- Studying evolution of antibiotic resistance in prey bacteria in the presence of a predator and evolution of escape strategies by the prey. The model system used was of M xanthus (predator) and E coli, P fluorescence and S enterica (prey).
-- Experimental coevolution of M xanthus and three prey bacteria - Microbial culture techniques
-- Analysis of predatory efficiency of and competition between clones of M xanthus from a population mixing evolution experiment
-- Standardisation of NGS based Frequency Analysis of M xanthus and E coli clones
-</p>
+<ul class='container' style='display list-item;'>
+<li> Understanding the influence of multiple selection-constrains on the de-novo evolution of antibiotic resistance</li>
+<li> Studying evolution of antibiotic resistance in prey bacteria in the presence of a predator and evolution of escape strategies by the prey. The model system used was of M xanthus (predator) and E coli, P fluorescence and S enterica (prey).</li>
+<li> Experimental coevolution of M xanthus and three prey bacteria - Microbial culture techniques</li>
+<li> Analysis of predatory efficiency of and competition between clones of M xanthus from a population mixing evolution experiment</li>
+<li> Standardisation of NGS based Frequency Analysis of M xanthus and E coli clones</li>
+</ul>
 <br>
 <hr>
 
@@ -32,12 +32,12 @@ permalink: /work
 **Studying the dynamics of REPIN movement in bacterial genomes**
 *March 2021 - June 2022*
 <p class='container'>
-- Understanding movement patterns and duplication rate of REPIN Transposable Elements in Pseudomonas genome sequences
-- Creating and testing of REPIN Clusterer - a Bioinformatics pipelines in Python Programming Language 
-- Developed innovative computational method of clustering REPIN Sequences together based on orthology 
-- Established events of duplication of REPIN Sequences based on the Clusters and calculated their rate of duplication. 
-- Critical analysis of potential theories on movement of REPIN within host genome 
-- Automated BLAST searches, isolated genes, compared genes, built, compared and analysed phylogenetic trees, curated computer code and datasets
+<li>Understanding movement patterns and duplication rate of REPIN Transposable Elements in Pseudomonas genome sequences</li>
+<li>Creating and testing of REPIN Clusterer - a Bioinformatics pipelines in Python Programming Language </li>
+<li>Developed innovative computational method of clustering REPIN Sequences together based on orthology </li>
+<li>Established events of duplication of REPIN Sequences based on the Clusters and calculated their rate of duplication. </li>
+<li>Critical analysis of potential theories on movement of REPIN within host genome </li>
+<li>Automated BLAST searches, isolated genes, compared genes, built, compared and analysed phylogenetic trees, curated computer code and datasets</li>
 </p>
 <br>
 <hr>
@@ -46,11 +46,11 @@ permalink: /work
 **Beta-cells in Gut Producing Insulin (BIG-PIE)**
 *February 2020 - October 2020*
 <p class='container' style='24px'>
-- A new method of providing insulin to patients with diabetes
-- Helped Brainstorm project ideas during the nascent stage
-- Helped with building the Project Website
-- Contributed to Outreach and Science Communication by conducting seminars for School students
-- Gold Medal Winning Project at The Giant Jamboree, iGEM 2020
+<li>A new method of providing insulin to patients with diabetes</li>
+<li>Helped Brainstorm project ideas during the nascent stage</li>
+<li>Helped with building the Project Website</li>
+<li>Contributed to Outreach and Science Communication by conducting seminars for School students</li>
+<li>Gold Medal Winning Project at The Giant Jamboree, iGEM 2020</li>
 </p>
 <br>
 <hr>
@@ -59,9 +59,9 @@ permalink: /work
 **Ecoli Learns Suboptimal Acclimatisation (ELSA)**
 *February 2019 - October 2019*
 <p class='container'>
-- Synthetically modifying Ecoli to grow optimally at 4 degrees Celsius
-- Helped manage the Wet Lab experiments by performing Growth Curve experiments to analyse the effect of our Gene of Interest
-- Helped the Outreach and Integrated Human Practices team by talking to people in the industry regarding our product.
-- Silver Medal Winning Project at The Giant Jamboree, iGEM 2019
+<li> Synthetically modifying Ecoli to grow optimally at 4 degrees Celsius</li>
+<li> Helped manage the Wet Lab experiments by performing Growth Curve experiments to analyse the effect of our Gene of Interest</li>
+<li> Helped the Outreach and Integrated Human Practices team by talking to people in the industry regarding our product.</li>
+<li> Silver Medal Winning Project at The Giant Jamboree, iGEM 2019</li>
 </p>
 
