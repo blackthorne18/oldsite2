@@ -6,6 +6,8 @@ categories: shotsofscience
 ---
 
 # Genetic Mischief Makers: The Thrilling Tale of Jumping Genes
+
+<div class='container'>
 Jumping genes are powerful hitchhikers that inhabit the DNA of all walks of life from microbes to humans. These rogue elements have the remarkable ability to rewire bacterial genomes providing boosts and superpowers to their hosts. Join me on this journey to unravel the secrets of these miniature genetic adventurers showcasing their quest for survival and self-interest within the world of bacteria. They are just short stretches of DNA but they can do so much! It's a story of intrigue, innovation, and evolution that's sure to leave you astounded by the tiny but mighty inhabitants of the bacterial world.
 
 The world around us is teeming with life from the tiniest microbe to the innocous fruit fly to the most complext plant. Within the DNA that all these life forms are made up of, these are a hidden world of minuscule rebels known as mobile genetic elements. Now, these aren't your run-of-the-mill genes; they are hitchhikers of the genetic highway.
@@ -21,3 +23,4 @@ These plasmids are also capable of spreading very easily from one bacteria to an
 Just imagine if we could do that – if we could pick up skills or powers just by sharing a friendly handshake! It would be cool to bump into Lewis Hamilton and suddenly you can go from the city center to your home in 4.5s. Or you shake hands with Mark Ruffallo but pick up his skills of riding a unicycle instead! That's precisely what plasmids do on a microscopic scale. This is fascinating to study but also really scary because this is how things like antibiotic resistance spread in a hospital.
 
 My work focuses on studying the secret handshake between plasmids and bacteria to understand how the spread, why they stay for long periods of time and what we can do about it! Plasmids are fascinating products of evolution. They are the ultimate genetic travelers, carrying the secrets of evolution in their tiny backpacks. It's a story that may be small in scale but colossal in impact for the world around us!
+</div>
