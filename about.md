@@ -7,11 +7,12 @@ permalink: /about
 
 # Contact Me
 
-Feel free to get in touch with me via email at <a href='mailto:prajwal@liverpool.ac.uk'>prajwal[at]liverpool.ac.uk</a>
-<br>
-You can find me on <a href='https://www.linkedin.com/in/bharadwajprajwal/' target='_blank'>Linkedin</a>. My CV is available for <a href='assets/cv-pvb.pdf' download>download</a>
-<br>
-I'm also on <a href='https://twitter.com/Prajwal_18' target='_blank'>Twitter</a> and on <a href='https://bsky.app/profile/prajwalvb.bsky.social' target='_blank'>BlueSky</a>.
+Feel free to get in touch with me via email at <a href='mailto:prajwal@liverpool.ac.uk'>prajwal[at]liverpool.ac.uk</a><br>
+You can find me on:
+- <a href='https://www.linkedin.com/in/bharadwajprajwal/' target='_blank'>Linkedin</a>
+- <a href='https://twitter.com/Prajwal_18' target='_blank'>Twitter</a>
+- <a href='https://bsky.app/profile/prajwalvb.bsky.social' target='_blank'>BlueSky</a><br>
+My CV is available for <a href='assets/cv-pvb.pdf' download>download</a>
 
 ---
 
@@ -24,6 +25,5 @@ I always have an active hobby, although it's constantly changing. From months of
 
 When I'm not writing code to understand evolution of selfish genetic elements or growing bacterial cultures to study the effect of our GOI, I like to test my courage and face Kubolds and Krakken while playing Dungeons and Dragons or I try to go for walks outdoor listening to podcasts. I definitely reccomend listening to 'This Week in Evolution'(TWiEVO) a podcast hosted by Dr. Nels Elde and Prof. Vincent Racaniello. 
 
----
 
 
