@@ -4,11 +4,11 @@ url: "https://blackthorne18.github.io"
 
 header_pages:
   - index.md
-  - work.md
+  - science.md
   - scicom.md
   - blog.md
+  - cv.md
   - about.md
-  - contact.md
 
 style: dark
 footer: 'signed p.v.b'

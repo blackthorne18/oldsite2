@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PrajwalBharadwaj/work
-displayname: /work
-permalink: /work
+title: PrajwalBharadwaj/cv
+displayname: /cv
+permalink: /cv
 ---
 
 ## PhD with Dr. James Hall

@@ -5,6 +5,16 @@ displayname: /about
 permalink: /about
 ---
 
+# Contact Me
+
+Feel free to get in touch with me via email at <a href='mailto:prajwal@liverpool.ac.uk'>prajwal[at]liverpool.ac.uk</a>
+<br>
+You can find me on <a href='https://www.linkedin.com/in/bharadwajprajwal/' target='_blank'>Linkedin</a>. My CV is available for <a href='assets/cv-pvb.pdf' download>download</a>
+<br>
+I'm also on <a href='https://twitter.com/Prajwal_18' target='_blank'>Twitter</a> and on <a href='https://bsky.app/profile/prajwalvb.bsky.social' target='_blank'>BlueSky</a>.
+
+---
+
 # My Backstory
 
 Brought up in cheerful and welcoming South Bengaluru, I grew up loving to play cricket, exploring the imaginative islands that spanned my home and reading books untill I ran out of them.
@@ -16,12 +26,4 @@ When I'm not writing code to understand evolution of selfish genetic elements or
 
 ---
 
-# Education
 
-## PhD in Mirobiology
-Department of Evolution, Ecology and Behaviour University of Liverpool
-Duration: 2023 - (ongoing)
-
-## BS-MS Dual Degree (Biological Sciences)
-Indian Institute of Science Education and Research Bhopal
-Duration: 2017- 2022
