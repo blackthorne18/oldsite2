@@ -6,8 +6,8 @@ permalink: /science
 ---
 
 <figure>
-    <img src='assets/lab-photo-1.webp' srcset='assets/lab-photo-1.webp 400w, assets/lab-photo-1-small.webp 200w' sizes='33vw' alt='lab photo' style='width:100%;height:auto'/>
-    <figcaption>*The wonderful people at the ELM Lab. Edinburgh 2024*</figcaption>
+    <img src='assets/lab-photo-1.webp' srcset='assets/lab-photo-1.webp' sizes='33vw' alt='lab photo' style='width:100%;height:auto'/>
+    <figcaption><i>The wonderful people at the ELM Lab. Edinburgh 2024</i></figcaption>
 </figure>
 
 # Plasmid Host Interactions in *Pseudomonas aeruginosa*
@@ -19,5 +19,5 @@ I will be working on studying the susceptibility of bacteria towards MGEs, and a
 
 <figure>
     <img src='assets/microsoc24-poster.webp' srcset='assets/microsoc24-poster.webp 400w, assets/microsoc24-poster-small.webp 200w' sizes='33vw' alt='microsoc poster 2024' style='width:100%;height:auto'/>
-    <figcaption>*Poster Prize in microbial genetics at Microbiology Society's Annual Conference. Edinburgh 2024*</figcaption>
+    <figcaption><i>Poster Prize in microbial genetics at Microbiology Society's Annual Conference. Edinburgh 2024</i></figcaption>
 </figure>
