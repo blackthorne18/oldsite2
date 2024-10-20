@@ -1,8 +1,8 @@
 ---
 layout: page
-title: PrajwalBharadwaj/ecoR1
-displayname: /ecoR1
-permalink: /GAATTC
+title: PrajwalBharadwaj/helixorder
+displayname: /Pae1
+permalink: /CGTACG
 ---
 
 # Welcome
